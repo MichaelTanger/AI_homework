@@ -1,0 +1,3 @@
+bonus: 5
+query: 5
+action steps: 5
